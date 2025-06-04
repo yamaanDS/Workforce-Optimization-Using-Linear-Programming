@@ -1,4 +1,3 @@
-# Workforce Optimization Using Linear Programming (Excel Solver)
 
 This project demonstrates a classic **workforce planning problem** solved using **Linear Programming** and implemented in **Microsoft Excel Solver**.
 
